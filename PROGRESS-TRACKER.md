@@ -6,7 +6,7 @@ Everything starts unchecked. Mark an item only after completing it and keep the 
 
 | Day | Topics Completed | Practical Completed | Code Completed | GitHub Commit | Status |
 |---|---|---|---|---|---|
-| 01 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
+| 01 | [x] | [x] | [x] | [x] | [x] COMPLETED   |
 | 02 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
 | 03 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
 | 04 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |

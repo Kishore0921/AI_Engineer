@@ -17,11 +17,11 @@ Translate the role and ecosystem concepts into a concise visual reference.
 A readable, single-page map and notes that accurately show how an AI engineering role connects AI capabilities to product needs.
 
 ## Completion checklist
-- [ ] AI ecosystem notes are saved.
-- [ ] AI Engineer and ML Engineer comparison is included.
-- [ ] AI vs AGI distinction is clear.
-- [ ] One-page AI Engineering role map is complete.
-- [ ] Opportunity and limitation are documented.
+- [x] AI ecosystem notes are saved.
+- [x] AI Engineer and ML Engineer comparison is included.
+- [x] AI vs AGI distinction is clear.
+- [x] One-page AI Engineering role map is complete.
+- [x] Opportunity and limitation are documented.
 
 ## Save to GitHub
 Save this deliverable in `DAY-01` (for example, in this file or as a clearly named image/document alongside it). Commit the day's notes and practical output with a message such as `Day 01: map the AI engineering ecosystem`.
