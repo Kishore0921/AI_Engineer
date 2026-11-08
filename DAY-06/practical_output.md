@@ -17,10 +17,10 @@ Use controlled experiments to observe how prompt wording and supported parameter
 An experiment log that isolates prompt and parameter changes and describes observed—not assumed—effects.
 
 ## Completion checklist
-- [ ] Baseline and model details are recorded.
-- [ ] Prompt and parameter changes are isolated.
-- [ ] Multiple outputs are compared.
-- [ ] Fine-tuning concept is distinguished from prompting.
+- [x] Baseline and model details are recorded.
+- [x] Prompt and parameter changes are isolated.
+- [x] Multiple outputs are compared.
+- [x] Fine-tuning concept is distinguished from prompting.
 
 ## Save to GitHub
 Save the experiment log in `DAY-06`. Commit with a message such as `Day 06: document prompt and parameter experiments`.
