@@ -17,10 +17,10 @@ Build a minimal Python program that sends a user prompt to an LLM API and displa
 A working, reproducible Python LLM application with credentials kept outside the repository and a recorded successful test.
 
 ## Completion checklist
-- [ ] Current API documentation and model are recorded.
-- [ ] Python app sends a prompt and displays the response.
-- [ ] Missing key or API failure is reported clearly.
-- [ ] No key or sensitive data is stored in the repository.
+- [x] Current API documentation and model are recorded.
+- [x] Python app sends a prompt and displays the response.
+- [x] Missing key or API failure is reported clearly.
+- [x] No key or sensitive data is stored in the repository.
 
 ## Save to GitHub
 Save the application in an appropriate `DAY-04/code_*.py` file and document setup without secrets. Commit with a message such as `Day 04: build a Python LLM API app`.
