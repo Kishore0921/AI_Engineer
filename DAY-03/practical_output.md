@@ -17,10 +17,10 @@ Make a repeatable, evidence-based comparison across the five model providers.
 A comparison table with model identity, common prompts, observations, and access limitations.
 
 ## Completion checklist
-- [ ] Five model/provider slots are considered and identified.
-- [ ] The same task set is used for each available model.
-- [ ] Outputs and comparison criteria are recorded.
-- [ ] Access gaps and date are transparent.
+- [x] Five model/provider slots are considered and identified.
+- [x] The same task set is used for each available model.
+- [x] Outputs and comparison criteria are recorded.
+- [x] Access gaps and date are transparent.
 
 ## Save to GitHub
 Save the comparison table and prompt set in `DAY-03`. Commit with a message such as `Day 03: compare five model responses`.
