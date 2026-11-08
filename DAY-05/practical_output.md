@@ -17,11 +17,11 @@ Create a small test harness that compares prompt variants and makes token/respon
 A runnable prompt comparison tool and a compact report showing prompt variants, responses, token counts where available, and pricing assumptions.
 
 ## Completion checklist
-- [ ] Task and prompt variants are saved.
-- [ ] Test conditions are comparable.
-- [ ] Responses and token measurements are recorded.
-- [ ] Pricing source/date and assumptions are documented.
-- [ ] Credentials are not saved in code.
+- [x] Task and prompt variants are saved.
+- [x] Test conditions are comparable.
+- [x] Responses and token measurements are recorded.
+- [x] Pricing source/date and assumptions are documented.
+- [x] Credentials are not saved in code.
 
 ## Save to GitHub
 Save the app in `DAY-05/code_*.py` and the test results in this folder. Commit with a message such as `Day 05: compare prompts and token usage`.
