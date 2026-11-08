@@ -17,11 +17,11 @@ Integrate the week's concepts in a small chatbot that exchanges user messages wi
 A working, basic API chatbot with a short test record and a Week 1 revision note.
 
 ## Completion checklist
-- [ ] Chatbot sends user input to the API and shows a response.
-- [ ] Relevant context is handled intentionally.
-- [ ] Empty input and failures do not appear as successful answers.
-- [ ] Credentials remain outside source control.
-- [ ] Week 1 review is saved.
+- [x] Chatbot sends user input to the API and shows a response.
+- [x] Relevant context is handled intentionally.
+- [x] Empty input and failures do not appear as successful answers.
+- [x] Credentials remain outside source control.
+- [x] Week 1 review is saved.
 
 ## Save to GitHub
 Save code in `DAY-07/code_*.py` and add a run/setup note without secrets. Commit with a message such as `Day 07: integrate a basic API chatbot`.
