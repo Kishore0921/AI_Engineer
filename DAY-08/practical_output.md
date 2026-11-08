@@ -17,10 +17,10 @@ Build an organized library of reusable prompts and evidence of how they perform 
 A prompt library with named templates, input slots, test examples, and concise evidence-based notes.
 
 ## Completion checklist
-- [ ] Reusable prompt templates are named and organized.
-- [ ] Input slots and output expectations are clear.
-- [ ] Examples include a challenging case.
-- [ ] Outputs and revisions are documented.
+- [x] Reusable prompt templates are named and organized.
+- [x] Input slots and output expectations are clear.
+- [x] Examples include a challenging case.
+- [x] Outputs and revisions are documented.
 
 ## Save to GitHub
 Save the library and test record in `DAY-08`. Commit with a message such as `Day 08: create tested prompt library`.
