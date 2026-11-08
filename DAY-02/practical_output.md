@@ -17,10 +17,10 @@ Observe an existing model's behavior with controlled inputs and report what it c
 A short reproducible experiment log containing the model, inputs, outputs, and evidence-based limitations.
 
 ## Completion checklist
-- [ ] Pre-trained model and access method are identified.
-- [ ] Inputs and outputs are recorded accurately.
-- [ ] At least one capability and limitation are discussed.
-- [ ] No sensitive input or secret is included.
+- [x] Pre-trained model and access method are identified.
+- [x] Inputs and outputs are recorded accurately.
+- [x] At least one capability and limitation are discussed.
+- [x] No sensitive input or secret is included.
 
 ## Save to GitHub
 Save the experiment log in `DAY-02`; add 2–3 small Python exercises in the provided code files if applicable. Commit with a message such as `Day 02: run and assess a pretrained model`.
