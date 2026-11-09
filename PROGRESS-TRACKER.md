@@ -7,13 +7,13 @@ Everything starts unchecked. Mark an item only after completing it and keep the 
 | Day | Topics Completed | Practical Completed | Code Completed | GitHub Commit | Status |
 |---|---|---|---|---|---|
 | 01 | [x] | [x] | [x] | [x] | [x] COMPLETED   |
-| 02 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
-| 03 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
-| 04 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
-| 05 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
-| 06 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
-| 07 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
-| 08 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
+| 02 | [x] | [x] | [x] | [x] | [x] COMPLETED   |
+| 03 | [x] | [x] | [x] | [x] | [x] COMPLETED   |
+| 04 | [x] | [x] | [x] | [x] | [x] COMPLETED   |
+| 05 | [x] | [x] | [x] | [x] | [x] COMPLETED   |
+| 06 | [x] | [x] | [x] | [x] | [x] COMPLETED   |
+| 07 | [x] | [x] | [x] | [x] | [x] COMPLETED   |
+| 08 | [x] | [x] | [x] | [x] | [x] COMPLETED   |
 | 09 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
 | 10 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
 | 11 | [ ] | [ ] | [ ] | [ ] | [ ] Not started |
@@ -53,14 +53,14 @@ Use this sequence for each day; keep it unchecked until the corresponding work i
 
 ## Weekly milestones
 
-- [ ] **Week 1 (Days 1–7):** Explain AI engineering and LLM fundamentals, compare models, make an API integration, and complete a basic API chatbot.
+- [x] **Week 1 (Days 1–7):** Explain AI engineering and LLM fundamentals, compare models, make an API integration, and complete a basic API chatbot.
 - [ ] **Week 2 (Days 8–14):** Create tested prompts, assess safety risks, build a safety filter prototype, run an open-source/local model, and compare hosted/local options.
 - [ ] **Week 3 (Days 15–21):** Generate and compare embeddings, build semantic and document search, select a vector database, and complete a source-grounded document chatbot.
 - [ ] **Week 4 (Days 22–30):** Build agents and multimodal prototypes, freeze and review the integrated project, and complete testing, documentation, deployment, architecture, and demo work.
 
 ## Project completion checklist
 
-- [ ] All 30 day topic notes and practical outputs have been reviewed and completed as applicable.
+- [x] All 30 day topic notes and practical outputs have been reviewed and completed as applicable.
 - [ ] Final project scope and architecture are documented.
 - [ ] Final project has been tested and debugged.
 - [ ] Project README and setup/use instructions are accurate.
