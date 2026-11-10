@@ -17,11 +17,11 @@ Document how an AI feature may fail or be misused, and create safe, non-destruct
 A bounded, safe set of prompt-injection tests and a prioritized, actionable AI risk register.
 
 ## Completion checklist
-- [ ] Feature scope and intended behavior are stated.
-- [ ] Test cases use no real secrets or external target.
-- [ ] Expected and observed behavior are distinguished.
-- [ ] Risk register covers relevant security, privacy, bias, fairness, and safety concerns.
-- [ ] Mitigations have validation ideas.
+- [x] Feature scope and intended behavior are stated.
+- [x] Test cases use no real secrets or external target.
+- [x] Expected and observed behavior are distinguished.
+- [x] Risk register covers relevant security, privacy, bias, fairness, and safety concerns.
+- [x] Mitigations have validation ideas.
 
 ## Save to GitHub
 Save the test cases and risk register in `DAY-09`. Commit with a message such as `Day 09: document AI risks and injection tests`.
