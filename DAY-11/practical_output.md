@@ -17,10 +17,10 @@ Create a decision aid for choosing between accessible open-source and closed-sou
 A side-by-side comparison sheet with evidence, explicit unknowns, and a use-case-specific recommendation.
 
 ## Completion checklist
-- [ ] Both model approaches are represented.
-- [ ] Quality, speed, cost, privacy, and hardware are addressed.
-- [ ] Sources, dates, licenses, and estimates are identified.
-- [ ] Recommendation states its use case and trade-offs.
+- [x] Both model approaches are represented.
+- [x] Quality, speed, cost, privacy, and hardware are addressed.
+- [x] Sources, dates, licenses, and estimates are identified.
+- [x] Recommendation states its use case and trade-offs.
 
 ## Save to GitHub
 Save the comparison in `DAY-11`. Commit with a message such as `Day 11: compare model deployment tradeoffs`.
