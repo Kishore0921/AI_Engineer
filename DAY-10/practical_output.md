@@ -17,11 +17,11 @@ Prototype a layered safety check for a small AI interaction and observe moderati
 A small safety-filter prototype or clearly bounded experiment record showing input checks, moderation observations, and failure behavior.
 
 ## Completion checklist
-- [ ] Intended use and test examples are documented.
-- [ ] Input checks are implemented or specified.
-- [ ] Moderation behavior or access limitation is recorded accurately.
-- [ ] Failures are not silently allowed through.
-- [ ] Privacy and moderation limitations are noted.
+- [x] Intended use and test examples are documented.
+- [x] Input checks are implemented or specified.
+- [x] Moderation behavior or access limitation is recorded accurately.
+- [x] Failures are not silently allowed through.
+- [x] Privacy and moderation limitations are noted.
 
 ## Save to GitHub
 Save prototype code in `DAY-10/code_*.py` and the experiment notes here. Commit with a message such as `Day 10: prototype AI safety checks`.
