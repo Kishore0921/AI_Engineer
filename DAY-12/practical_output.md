@@ -17,10 +17,10 @@ Use the Hub to select a documented model and perform one local inference run whe
 A documented model selection and actual inference output, or a transparent, actionable record of the environment blocker.
 
 ## Completion checklist
-- [ ] Model task, card, license, and requirements were checked.
-- [ ] Download/run was performed or the exact blocker is recorded.
-- [ ] Sample input and output are saved when run.
-- [ ] Model files and generated artifacts are handled appropriately.
+- [x] Model task, card, license, and requirements were checked.
+- [x] Download/run was performed or the exact blocker is recorded.
+- [x] Sample input and output are saved when run.
+- [x] Model files and generated artifacts are handled appropriately.
 
 ## Save to GitHub
 Save the run notes and, where appropriate, a small script in `DAY-12/code_*.py`; do not commit large weights. Commit with a message such as `Day 12: run a Hugging Face model`.
