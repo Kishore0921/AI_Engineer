@@ -17,11 +17,11 @@ Exercise a local model through Ollama and connect to it from a small Python clie
 A local model responds through Ollama and through a Python call, with setup and environment details documented.
 
 ## Completion checklist
-- [ ] Model and local runtime are identified.
-- [ ] Ollama run succeeds or blocker is documented.
-- [ ] Python call uses the documented local interface.
-- [ ] Service/model errors are visible.
-- [ ] No private prompt data is included in committed logs.
+- [x] Model and local runtime are identified.
+- [x] Ollama run succeeds or blocker is documented.
+- [x] Python call uses the documented local interface.
+- [x] Service/model errors are visible.
+- [x] No private prompt data is included in committed logs.
 
 ## Save to GitHub
 Save the Python client in `DAY-13/code_*.py` and the run instructions/results here. Commit with a message such as `Day 13: call a local Ollama model`.
