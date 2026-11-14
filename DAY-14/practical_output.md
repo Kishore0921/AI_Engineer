@@ -17,10 +17,10 @@ Make a concise deployment comparison and verify understanding of the second week
 A sourced hosted/local comparison and a completed Week 2 review with an explicit remaining learning gap.
 
 ## Completion checklist
-- [ ] Hosted and local options are named.
-- [ ] Comparison includes cost, privacy, latency, setup, and hardware.
-- [ ] Provider information is dated/sourced.
-- [ ] Week 2 concepts are reviewed and a gap is recorded.
+- [x] Hosted and local options are named.
+- [x] Comparison includes cost, privacy, latency, setup, and hardware.
+- [x] Provider information is dated/sourced.
+- [x] Week 2 concepts are reviewed and a gap is recorded.
 
 ## Save to GitHub
 Save the comparison and checkpoint answers in `DAY-14`. Commit with a message such as `Day 14: compare hosted and local AI`.
