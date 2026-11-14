@@ -17,11 +17,11 @@ Generate vector representations of sample text and inspect the returned vector s
 A reproducible small embedding experiment with model name, text samples, dimension count, and pricing notes.
 
 ## Completion checklist
-- [ ] Embedding model/API is identified.
-- [ ] Embeddings are generated or an access limitation is documented.
-- [ ] Vector dimensions are inspected.
-- [ ] Pricing source and date are recorded.
-- [ ] Test data is non-sensitive.
+- [x] Embedding model/API is identified.
+- [x] Embeddings are generated or an access limitation is documented.
+- [x] Vector dimensions are inspected.
+- [x] Pricing source and date are recorded.
+- [x] Test data is non-sensitive.
 
 ## Save to GitHub
 Save code in `DAY-15/code_*.py` and concise results in this folder. Commit with a message such as `Day 15: inspect text embedding dimensions`.
