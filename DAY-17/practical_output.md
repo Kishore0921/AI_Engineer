@@ -17,10 +17,10 @@ Represent a small collection and query with embeddings, then rank the most seman
 A runnable small semantic search workflow that returns ranked text snippets for natural-language queries.
 
 ## Completion checklist
-- [ ] Text collection is saved and appropriate for sharing.
-- [ ] Query and items use the same embedding model.
-- [ ] Similarity ranking is implemented and tested.
-- [ ] Results and limitations are documented.
+- [x] Text collection is saved and appropriate for sharing.
+- [x] Query and items use the same embedding model.
+- [x] Similarity ranking is implemented and tested.
+- [x] Results and limitations are documented.
 
 ## Save to GitHub
 Save implementation in `DAY-17/code_*.py` and sample collection/results here. Commit with a message such as `Day 17: build a semantic text search`.
