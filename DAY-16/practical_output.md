@@ -17,10 +17,10 @@ Run at least two suitable embedding models on shared sentence examples and compa
 A model comparison record with examples, dimensions, similarity observations, and a use-case-based conclusion.
 
 ## Completion checklist
-- [ ] Two models and their documentation are recorded.
-- [ ] The same sentences are encoded by each model.
-- [ ] Dimensions and within-model similarity observations are included.
-- [ ] Conclusion and sample limitations are stated.
+- [x] Two models and their documentation are recorded.
+- [x] The same sentences are encoded by each model.
+- [x] Dimensions and within-model similarity observations are included.
+- [x] Conclusion and sample limitations are stated.
 
 ## Save to GitHub
 Save scripts in `DAY-16/code_*.py` and results here. Commit with a message such as `Day 16: compare open-source embeddings`.
