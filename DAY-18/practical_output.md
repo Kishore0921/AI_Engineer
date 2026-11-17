@@ -17,10 +17,10 @@ Assess the listed vector database choices against the needs of a small retrieval
 A concise comparison matrix and a justified vector database selection for the project.
 
 ## Completion checklist
-- [ ] All eight named options are considered.
-- [ ] Comparison criteria and sources/date are recorded.
-- [ ] Project requirements are explicit.
-- [ ] One choice and its trade-offs are explained.
+- [x] All eight named options are considered.
+- [x] Comparison criteria and sources/date are recorded.
+- [x] Project requirements are explicit.
+- [x] One choice and its trade-offs are explained.
 
 ## Save to GitHub
 Save the matrix and choice rationale in `DAY-18`. Commit with a message such as `Day 18: select a vector database`.
