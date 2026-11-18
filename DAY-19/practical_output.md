@@ -17,10 +17,10 @@ Create a search workflow that stores document embeddings and returns the most re
 A small document search engine that finds and displays relevant passages with source references.
 
 ## Completion checklist
-- [ ] Documents are associated with source metadata.
-- [ ] Embeddings are indexed and queryable.
-- [ ] Search returns ranked source-linked passages.
-- [ ] Several test queries and limitations are documented.
+- [x] Documents are associated with source metadata.
+- [x] Embeddings are indexed and queryable.
+- [x] Search returns ranked source-linked passages.
+- [x] Several test queries and limitations are documented.
 
 ## Save to GitHub
 Save code in `DAY-19/code_*.py`, plus safe sample documents or a reconstruction note. Commit with a message such as `Day 19: index and search documents`.
