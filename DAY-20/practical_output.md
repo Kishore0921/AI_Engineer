@@ -18,11 +18,11 @@ Connect a small document collection to an LLM through chunking, embedding, retri
 A basic RAG pipeline that retrieves document passages and generates a response grounded in that context, with sources exposed for review.
 
 ## Completion checklist
-- [ ] Chunking preserves source references.
-- [ ] Embeddings and index are created.
-- [ ] Retrieval context is passed to the generator.
-- [ ] Supported and unsupported queries are tested.
-- [ ] Source evidence and limitations are visible.
+- [x] Chunking preserves source references.
+- [x] Embeddings and index are created.
+- [x] Retrieval context is passed to the generator.
+- [x] Supported and unsupported queries are tested.
+- [x] Source evidence and limitations are visible.
 
 ## Save to GitHub
 Save code in `DAY-20/code_*.py` and setup/rebuild instructions here. Commit with a message such as `Day 20: build a basic RAG pipeline`.
